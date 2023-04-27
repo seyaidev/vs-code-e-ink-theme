@@ -8,6 +8,7 @@
     "editor.foreground": "#000000",
     "editor.selectionBackground": "#cccccc",
     "editor.selectionHighlightBackground": "#aaaaaa",
+    
     "editor.lineHighlightBorder": "#00000000",
     "editor.findMatchBorder": "#00000070",
     "editor.selectionForeground": "#000000",
@@ -162,6 +163,9 @@
     "quickInput.foreground": "#000000",
     "quickInputTitle.background": "#000000",
     "quickInput.background": "#ffffff",
+    "quickInputList.focusBackground": "#cccccc",
+    "quickInputList.focusForeground": "#ffffff",
+    "quickInputList.focusIconForeground": "#000000",
 
     "button.background": "#000000",
     "button.secondaryBackground": "#999999",
